@@ -59,7 +59,7 @@ func main() {
 			continue
 		}
 
-		fmt.Printf("Unkown type")
+		fmt.Println("Unkown type")
 	}
 }
 
